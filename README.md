@@ -1,2 +1,2 @@
-# DataScienceEcosystem---Omar
+# DataScienceEcosystem-Omar
 Data Science Ecosystem
